@@ -1,0 +1,14 @@
+[package]
+name = "org-pushbullet"
+version = "0.1.0"
+authors = ["Jean-Martin Archer <jm@jmartin.ca>"]
+
+[dependencies]
+keyring = "0.6.0"
+pb = "0.2.0"
+rayon = "1.0"
+readability = "0.1.4"
+regex = "0.2"
+time = "0.1"
+slugify = "0.1.0"
+url = "0.5.9"
